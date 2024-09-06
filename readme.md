@@ -2,6 +2,8 @@
 
 This NEAR smart contract implements a weighted raffle system. Participants can enter the raffle with different weights, giving them proportionally different chances of winning.
 
+Based off the contract from https://github.com/NEAR-DevHub/race-of-sloths/
+
 ## Contract Overview
 
 The contract consists of two main structures:
